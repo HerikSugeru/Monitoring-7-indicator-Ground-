@@ -10,8 +10,8 @@ LiquidCrystal_I2C lcd(0x27, 20, 4);
 SoftwareSerial mySerial(26, 25);  // RX, TX
 
 // ubah SSID dengan nama hostpot dan password sesuai keperluan 
-const char* ssid            = "Ratih K";
-const char* password        = "09041988"; 
+const char* ssid            = "Galaxy A04";
+const char* password        = "owalah123"; 
 
 // settingan API ThingSpeak
 unsigned long myChannelNumber = 2321454;
